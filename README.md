@@ -1,9 +1,9 @@
 ## Hi, I'm Ming 👋
-
-<!--
-**ming-shan-lu/ming-shan-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## About Me
 I'm a Data Analyst with expertise in data analysis and reporting, query optimisation, database design, and data modelling.
+<!--
+**ming-shan-lu/ming-shan-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
