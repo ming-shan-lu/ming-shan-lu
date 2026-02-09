@@ -4,7 +4,7 @@ I'm a Data Analyst with expertise in data analysis and reporting, query optimisa
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
+- Developing dashboards on Power BI and Tableau.
 - Data analysis and reporting using Google Sheets and Excel.
 
 ## 📊 Projects
