@@ -14,7 +14,7 @@ Welcome to my portfolio, where I showcase my projects.
 - [E-Commerce Performance Report and Dashboard](https://github.com/ming-shan-lu/Olist-E-Commerce-Project)
 - [Dashboard projects](https://mavenshowcase.com/profile/c801f330-6071-7067-7053-abda19d19d82)
 
-## Tools
+## 🛠️ Tools
 
 - Language: SQL, Python
 - Database: MySQL, Snowflake
