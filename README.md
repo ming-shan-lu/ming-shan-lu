@@ -16,19 +16,14 @@ Welcome to my portfolio, where I showcase my projects.
 
 ## Tools
 
-Language: SQL, Python
-Database: MySQL, Snowflake
-Visualisation: Power BI, Tableau
-
-<!--
-**ming-shan-lu/ming-shan-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+- Language: SQL, Python
+- Database: MySQL, Snowflake
+- Visualisation: Power BI, Tableau
 
 ## 📫 How to reach me: 
 
 - [LinkedIn](https://www.linkedin.com/in/mingshanlu/)
 - [Medium](https://medium.com/@ming.s.lu1617)
 
-- ⚡ Fun fact: ...
--->
+<!--
+**ming-shan-lu/ming-shan-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
