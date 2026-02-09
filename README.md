@@ -1,9 +1,6 @@
 ## Hi, I'm Ming 👋
-## About Me
-I'm a Data Analyst with expertise in data analysis and reporting, query optimisation, database design, and data modelling.
-<!--
-**ming-shan-lu/ming-shan-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I'm a Data Analyst with expertise in data analysis and reporting, query optimisation, database design, and data modelling.
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
@@ -22,6 +19,11 @@ Welcome to my portfolio, where I showcase my projects.
 Language: SQL, Python
 Database: MySQL, Snowflake
 Visualisation: Power BI, Tableau
+
+<!--
+**ming-shan-lu/ming-shan-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 ## 📫 How to reach me: 
 
