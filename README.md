@@ -14,7 +14,7 @@ Welcome to my portfolio, where I showcase my projects.
   *  Cleaned and transformed 29K+ geospatial tenement records using Python (geopandas), converting GeoJSON into CSVs. Built a Power BI dashboard to visualise boundaries, ownership and regional overlays, supporting investor due diligence and strategic exploration planning.  
 - [E-Commerce Sales Performance Report and Dashboard](https://github.com/ming-shan-lu/Olist-E-Commerce-Project)
   * Cleaned, transformed, and analysed 100k+ e-commerce transactions using SQL and Power Query to uncover marketplace performance and operational efficiency. Created a Power BI dashboard to detect seasonal patterns, logistics insight and customer retention. Identified a 22% revenue growth trend, and a 450% increase in active sellers; revealed only 3% repeat customers, highlighting retention opportunities.
-- [WA airbnb](https://github.com/ming-shan-lu/WA-airbnb)
+- [WA Short-Term Rental Market Intelligence Dashboard](https://github.com/ming-shan-lu/WA-airbnb)
 
 ## 🛠️ Tools
 
