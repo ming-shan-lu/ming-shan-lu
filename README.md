@@ -15,6 +15,7 @@ Welcome to my portfolio, where I showcase my projects.
 - [E-Commerce Sales Performance Report and Dashboard](https://github.com/ming-shan-lu/Olist-E-Commerce-Project)
   * Cleaned, transformed, and analysed 100k+ e-commerce transactions using SQL and Power Query to uncover marketplace performance and operational efficiency. Created a Power BI dashboard to detect seasonal patterns, logistics insights, and customer retention. Identified a 22% revenue growth trend, and a 450% increase in active sellers; revealed only 3% repeat customers, highlighting retention opportunities.
 - [WA Short-Term Rental Market Intelligence Dashboard](https://github.com/ming-shan-lu/WA-airbnb)
+  * Developed an end-to-end exploratory data analysis project on the Western Australia short-term rental market by cleaning and querying 11,507 listing records using MySQL, analyzing regional distribution, pricing tiers, and host property counts, and presenting the insights via an interactive Tableau Public dashboard.
 
 ## 🛠️ Tools
 
